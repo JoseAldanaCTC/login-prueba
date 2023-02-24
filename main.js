@@ -1,7 +1,7 @@
 import { initializeApp } from "https://www.gstatic.com/firebasejs/9.17.1/firebase-app.js";
-import { createUserWithEmailAndPassword  } from 'https://www.gstatic.com/firebasejs/9.16.0/firebase-auth.js'
+import { createUserWithEmailAndPassword  } from 'https://www.gstatic.com/firebasejs/9.16.0/firebase-auth.js';
 import { initializeAuth } from "https://www.gstatic.com/firebasejs/9.17.1/firebase-auth.js";
-import { getFirestore } from 'https://www.gstatic.com/firebasejs/9.16.0/firebase-firestore.js'
+import { getFirestore } from 'https://www.gstatic.com/firebasejs/9.16.0/firebase-firestore.js';
   // TODO: Add SDKs for Firebase products that you want to use
   // https://firebase.google.com/docs/web/setup#available-libraries
 
